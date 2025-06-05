@@ -34,12 +34,12 @@ code:-
 	}
 
 output:-
-	[2021ict119@fedora ~]$ vi ifElse.c
-	[2021ict119@fedora ~]$ gcc ifElse.c -o ifElse
-	[2021ict119@fedora ~]$ ./ifElse
+	[2021ict111@fedora ~]$ vi ifElse.c
+	[2021ict111@fedora ~]$ gcc ifElse.c -o ifElse
+	[2021ict111@fedora ~]$ ./ifElse
 	Enter your age: 22
 	You are eligible for voting
-	[2021ict119@fedora ~]$ ./ifElse
+	[2021ict111@fedora ~]$ ./ifElse
 	Enter your age: 15
 	You are not eligible
 	
@@ -63,12 +63,12 @@ code:-
 	}
 
 output:-
-	[2021ict119@fedora ~]$ vi Ternaty.c
-	[2021ict119@fedora ~]$ gcc Ternaty.c -o Ternaty
-	[2021ict119@fedora ~]$ ./Ternaty
+	[2021ict111@fedora ~]$ vi Ternaty.c
+	[2021ict111@fedora ~]$ gcc Ternaty.c -o Ternaty
+	[2021ict111@fedora ~]$ ./Ternaty
 	Enter your age: 25
 	Eligible
-	[2021ict119@fedora ~]$ ./Ternaty
+	[2021ict111@fedora ~]$ ./Ternaty
 	Enter your age: 12
 	Not Eligible
 	
@@ -133,12 +133,12 @@ code:-
 	}
 	
 output:-
-	[2021ict119@fedora ~]$ vi switch.c
-	[2021ict119@fedora ~]$ gcc switch.c -o switch
-	[2021ict119@fedora ~]$ ./switch
+	[2021ict111@fedora ~]$ vi switch.c
+	[2021ict111@fedora ~]$ gcc switch.c -o switch
+	[2021ict111@fedora ~]$ ./switch
 	Enter the number between 1 to 7 : 5
 	Today is Thursday
-	[2021ict119@fedora ~]$ ./switch
+	[2021ict111@fedora ~]$ ./switch
 	Enter the number between 1 to 7 : 8
 	Invalid
 	
@@ -218,13 +218,13 @@ code:-
 	}
 
 output:-
-	[2021ict119@fedora ~]$ ./lifePath
+	[2021ict111@fedora ~]$ ./lifePath
 	Enter your birth date : 25
 	Sad
-	[2021ict119@fedora ~]$ ./lifePath
+	[2021ict111@fedora ~]$ ./lifePath
 	Enter your birth date : 30
 	Stronger
-	[2021ict119@fedora ~]$ ./lifePath
+	[2021ict111@fedora ~]$ ./lifePath
 	Enter your birth date : 29
 	Carefully do your work
 
@@ -266,8 +266,8 @@ code:-
 
 
 output:-
-	[2021ict119@fedora ~]$ gcc forLoop.c -o forLoop
-	[2021ict119@fedora ~]$ ./forLoop
+	[2021ict111@fedora ~]$ gcc forLoop.c -o forLoop
+	[2021ict111@fedora ~]$ ./forLoop
 	Enter the number of elements: 5
 	Enter 5 numbers:
 	1
@@ -297,9 +297,9 @@ code:-
 }
 
 output:-
-	[2021ict119@fedora ~]$ vi while.c
-	[2021ict119@fedora ~]$ gcc while.c -o while
-	[2021ict119@fedora ~]$ ./while
+	[2021ict111@fedora ~]$ vi while.c
+	[2021ict111@fedora ~]$ gcc while.c -o while
+	[2021ict111@fedora ~]$ ./while
 	1 2 3 4 5 6 7 8 9 10
 
 
@@ -344,9 +344,9 @@ code:-
 	}
 
 output:-
-	[2021ict119@fedora ~]$ vi fibbo.c
-	[2021ict119@fedora ~]$ gcc fibbo.c  -o fibbo
-	[2021ict119@fedora ~]$ ./fibbo
+	[2021ict111@fedora ~]$ vi fibbo.c
+	[2021ict111@fedora ~]$ gcc fibbo.c  -o fibbo
+	[2021ict111@fedora ~]$ ./fibbo
 	Enter the number of terms: 10
 	Fibonacci Series up to 10 terms:
 	0 1 1 2 3 5 8 13 21 34
@@ -378,12 +378,12 @@ code :-
 	}
 	
 output:-
-	[2021ict119@fedora ~]$ vi fact.c
-	[2021ict119@fedora ~]$ gcc fact.c -o fact
-	[2021ict119@fedora ~]$ ./fact
+	[2021ict111@fedora ~]$ vi fact.c
+	[2021ict111@fedora ~]$ gcc fact.c -o fact
+	[2021ict111@fedora ~]$ ./fact
 	Enter a non-negative integer: 6
 	Factorial of 6 is 720
-	[2021ict119@fedora ~]$ ./fact
+	[2021ict111@fedora ~]$ ./fact
 	Enter a non-negative integer: -2
 	Factorial is not defined for negative integers.
 
@@ -413,9 +413,9 @@ code:-
 	}
 
 output:-
-	[2021ict119@fedora ~]$ vi concat.c
-	[2021ict119@fedora ~]$ gcc concat.c -o concat
-	[2021ict119@fedora ~]$ ./concat
+	[2021ict111@fedora ~]$ vi concat.c
+	[2021ict111@fedora ~]$ gcc concat.c -o concat
+	[2021ict111@fedora ~]$ ./concat
 	Enter the first string: Apple
 	Enter the second string: Cake
 	Concatenated result: AppleCake
